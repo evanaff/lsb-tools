@@ -25,8 +25,9 @@ venv\Scripts\activate      # Windows
 ```
 
 3. Install Dependencies
+```
 pip install -r requirements.txt
-
+```
 ## Usage
 Main script : `lsb_tools.py`
 
